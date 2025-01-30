@@ -1,12 +1,12 @@
 # data-professional-survey-Analysis
 
-# Dashboard
-![Screenshot 2025-01-30 210405](https://github.com/user-attachments/assets/4d8032a6-c5da-4984-9e2e-dc3b7754d030)
-
-
 ## Project Description
 
 This Power BI project focuses on analyzing a survey conducted among data professionals to gain insights into various aspects of their careers, including job titles, favorite programming languages, salary trends, and overall job satisfaction.
+
+# Dashboard
+![Screenshot 2025-01-30 210405](https://github.com/user-attachments/assets/4d8032a6-c5da-4984-9e2e-dc3b7754d030)
+
 
 ### Key Features:
 - **Country of Survey Takers**: Visual representation of the geographical distribution of respondents.
