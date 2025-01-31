@@ -1,12 +1,11 @@
-# data-professional-survey-Analysis
+# Data Professional Survey Analysis - Power BI Project
+
+![Image](https://github.com/user-attachments/assets/3360044f-e747-42a6-927d-ad3c903f42f5)
+
 
 ## Project Description
 
 This Power BI project focuses on analyzing a survey conducted among data professionals to gain insights into various aspects of their careers, including job titles, favorite programming languages, salary trends, and overall job satisfaction.
-
-# Dashboard
-![Screenshot 2025-01-30 210405](https://github.com/user-attachments/assets/4d8032a6-c5da-4984-9e2e-dc3b7754d030)
-
 
 ### Key Features:
 - **Country of Survey Takers**: Visual representation of the geographical distribution of respondents.
@@ -19,8 +18,51 @@ This Power BI project focuses on analyzing a survey conducted among data profess
 - The project utilizes survey data collected from data professionals across different countries.
 - The dataset includes information on job titles, programming preferences, salaries, and demographic details.
 
+---
+
+## Data Dictionary
+
+Below is the description of the key fields used in the dataset:
+
+| **Field Name**                | **Description**                                                                 |
+|-------------------------------|---------------------------------------------------------------------------------|
+| **Unique ID**                 | A unique identifier for each survey response.                                  |
+| **Email**                     | Email address of the respondent (anonymized).                                  |
+| **Date Taken**                | The date when the survey was completed (in America/New_York timezone).         |
+| **Time Taken**                | The time when the survey was completed (in America/New_York timezone).         |
+| **City**                      | The city where the respondent is located.                                      |
+| **Country**                   | The country where the respondent is located.                                   |
+| **Referrer**                  | The source from which the respondent accessed the survey.                      |
+| **Time Spent**                | The total time spent by the respondent to complete the survey.                 |
+| **Q1 - Current Role**         | The job title or role of the respondent (e.g., Data Analyst, Data Scientist).  |
+| **Favorite Programming Language** | The respondent's preferred programming language (e.g., Python, R, Java).      |
+| **Average Salary**            | The average salary of the respondent based on their job title.                 |
+| **Happiness with Salary**     | A rating (scale of 1-10) indicating how satisfied the respondent is with their salary. |
+| **Happiness with Work/Life Balance** | A rating (scale of 1-10) indicating satisfaction with work/life balance.       |
+
+---
+
 ## Conclusion
 
 The analysis reveals that Python is the most favored programming language among data professionals, with a significant number of respondents identifying as Data Analysts or Data Scientists. The average salary varies significantly across job titles, with Data Architects and Data Scientists earning the highest. Additionally, the survey indicates that while many professionals are satisfied with their work/life balance, there is room for improvement in salary satisfaction.
 
 This project provides valuable insights for organizations looking to understand the data profession better and for individuals aiming to navigate their careers in this field.
+
+---
+
+## How to Use
+1. Clone the repository.
+2. Open the Power BI file to view the interactive dashboard.
+3. Explore the various visualizations and insights provided.
+
+---
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
