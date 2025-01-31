@@ -50,19 +50,7 @@ This project provides valuable insights for organizations looking to understand 
 
 ---
 
-## How to Use
-1. Clone the repository.
-2. Open the Power BI file to view the interactive dashboard.
-3. Explore the various visualizations and insights provided.
 
----
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
 
 
